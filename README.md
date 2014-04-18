@@ -22,7 +22,7 @@ easy_install-3.3 pip
 
 2. Clona el proyecto
 
-git clone https://github.com/PyAr/django-disqus.git
+git clone https://github.com/facundolucas/SharingAll.git
 
 2. instalar las dependencias, ej: pip3 install -r ./requirements.txt
 
